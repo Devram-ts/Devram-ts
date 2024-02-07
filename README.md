@@ -1,7 +1,7 @@
 ![Masterhead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Devram</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-<img align="left" alt="coding" height="400" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"
+<img align="center" alt="coding" height="600" width="1200" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devram-ts&label=Profile%20views&color=0e75b6&style=flat" alt="devram-ts" /> </p>
